@@ -271,6 +271,7 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 armv7 armv7s";
 			};
 			name = Debug;
 		};
@@ -339,6 +340,7 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 3.0;
 				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 armv7 armv7s";
 			};
 			name = Release;
 		};
